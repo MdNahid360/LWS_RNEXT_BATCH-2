@@ -1,13 +1,18 @@
-import AllPlanatas from "./components/AllPlanatas"
+import ManageTodo from "./3.12/component/ManageTodo";
 
 
 function App() {
 
   return (
     <>
-      <h1>Information</h1>
-      <hr />
-      <AllPlanatas />
+      {/* 3.11 */}
+      {/* <h1>Information</h1>
+      <hr /> */}
+      {/* <AllPlanatas /> */}
+
+      {/* 3.12  */}
+
+      <ManageTodo />
     </>
   )
 }

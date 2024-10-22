@@ -1,0 +1,10 @@
+.todo-box{
+    display: flex;
+    flex-direction: column;
+    gap: 0.80rem;
+}
+
+.todo-list {
+    display: flex;
+    gap: 0.40rem;
+}
